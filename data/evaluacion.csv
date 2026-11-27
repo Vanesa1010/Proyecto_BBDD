@@ -1,0 +1,261 @@
+id_evaluacion,id_proyecto,id_alumno,Nota
+1,1,1,Apto
+2,1,2,Apto
+3,1,3,Apto
+4,1,4,Apto
+5,1,5,Apto
+6,1,6,Apto
+7,1,7,No Apto
+8,1,8,No Apto
+9,1,9,Apto
+10,1,10,Apto
+11,1,11,Apto
+12,1,12,Apto
+13,1,13,Apto
+14,1,14,Apto
+15,1,15,Apto
+16,1,16,Apto
+17,1,17,Apto
+18,1,18,Apto
+19,1,19,Apto
+20,1,20,No Apto
+21,1,21,No Apto
+22,1,22,Apto
+23,1,23,No Apto
+24,1,24,No Apto
+25,1,25,Apto
+26,2,1,No Apto
+27,2,2,No Apto
+28,2,3,Apto
+29,2,4,No Apto
+30,2,5,No Apto
+31,2,6,Apto
+32,2,7,Apto
+33,2,8,Apto
+34,2,9,Apto
+35,2,10,No Apto
+36,2,11,Apto
+37,2,12,No Apto
+38,2,13,No Apto
+39,2,14,Apto
+40,2,15,Apto
+41,2,16,No Apto
+42,2,17,No Apto
+43,2,18,No Apto
+44,2,19,Apto
+45,2,20,Apto
+46,2,21,No Apto
+47,2,22,Apto
+48,2,23,Apto
+49,2,24,Apto
+50,2,25,Apto
+51,3,1,Apto
+52,3,2,Apto
+53,3,3,Apto
+54,3,4,No Apto
+55,3,5,Apto
+56,3,6,Apto
+57,3,7,Apto
+58,3,8,Apto
+59,3,9,Apto
+60,3,10,Apto
+61,3,11,Apto
+62,3,12,No Apto
+63,3,13,Apto
+64,3,14,Apto
+65,3,15,Apto
+66,3,16,No Apto
+67,3,17,Apto
+68,3,18,Apto
+69,3,19,Apto
+70,3,20,No Apto
+71,3,21,Apto
+72,3,22,No Apto
+73,3,23,No Apto
+74,3,24,No Apto
+75,3,25,Apto
+76,4,1,Apto
+77,4,2,Apto
+78,4,3,No Apto
+79,4,4,Apto
+80,4,5,Apto
+81,4,6,Apto
+82,4,7,Apto
+83,4,8,Apto
+84,4,9,No Apto
+85,4,10,Apto
+86,4,11,Apto
+87,4,12,Apto
+88,4,13,Apto
+89,4,14,Apto
+90,4,15,Apto
+91,4,16,Apto
+92,4,17,Apto
+93,4,18,Apto
+94,4,19,Apto
+95,4,20,Apto
+96,4,21,Apto
+97,4,22,Apto
+98,4,23,Apto
+99,4,24,No Apto
+100,4,25,Apto
+101,5,1,Apto
+102,5,2,Apto
+103,5,3,Apto
+104,5,4,No Apto
+105,5,5,Apto
+106,5,6,Apto
+107,5,7,Apto
+108,5,8,Apto
+109,5,9,Apto
+110,5,10,Apto
+111,5,11,Apto
+112,5,12,Apto
+113,5,13,Apto
+114,5,14,Apto
+115,5,15,Apto
+116,5,16,No Apto
+117,5,17,No Apto
+118,5,18,Apto
+119,5,19,Apto
+120,5,20,Apto
+121,5,21,Apto
+122,5,22,Apto
+123,5,23,Apto
+124,5,24,Apto
+125,5,25,Apto
+126,6,26,Apto
+127,6,27,No Apto
+128,6,28,Apto
+129,6,29,Apto
+130,6,30,Apto
+131,6,31,No Apto
+132,6,32,No Apto
+133,6,33,Apto
+134,6,34,No Apto
+135,6,35,No Apto
+136,6,36,No Apto
+137,6,37,Apto
+138,6,38,Apto
+139,6,39,Apto
+140,6,40,Apto
+141,6,41,Apto
+142,6,42,Apto
+143,6,43,Apto
+144,6,44,No Apto
+145,6,45,Apto
+146,6,46,No Apto
+147,6,47,No Apto
+148,6,48,No Apto
+149,6,49,Apto
+150,6,50,No Apto
+151,6,51,Apto
+152,6,52,Apto
+153,7,26,Apto
+154,7,27,No Apto
+155,7,28,No Apto
+156,7,29,No Apto
+157,7,30,Apto
+158,7,31,No Apto
+159,7,32,Apto
+160,7,33,Apto
+161,7,34,Apto
+162,7,35,Apto
+163,7,36,Apto
+164,7,37,Apto
+165,7,38,Apto
+166,7,39,Apto
+167,7,40,Apto
+168,7,41,Apto
+169,7,42,Apto
+170,7,43,No Apto
+171,7,44,Apto
+172,7,45,Apto
+173,7,46,No Apto
+174,7,47,No Apto
+175,7,48,No Apto
+176,7,49,Apto
+177,7,50,No Apto
+178,7,51,Apto
+179,7,52,No Apto
+180,8,26,Apto
+181,8,27,Apto
+182,8,28,Apto
+183,8,29,Apto
+184,8,30,Apto
+185,8,31,No Apto
+186,8,32,Apto
+187,8,33,No Apto
+188,8,34,Apto
+189,8,35,Apto
+190,8,36,Apto
+191,8,37,Apto
+192,8,38,No Apto
+193,8,39,Apto
+194,8,40,Apto
+195,8,41,No Apto
+196,8,42,Apto
+197,8,43,No Apto
+198,8,44,Apto
+199,8,45,Apto
+200,8,46,No Apto
+201,8,47,Apto
+202,8,48,No Apto
+203,8,49,No Apto
+204,8,50,Apto
+205,8,51,No Apto
+206,8,52,No Apto
+207,9,26,Apto
+208,9,27,No Apto
+209,9,28,No Apto
+210,9,29,No Apto
+211,9,30,Apto
+212,9,31,Apto
+213,9,32,Apto
+214,9,33,Apto
+215,9,34,Apto
+216,9,35,No Apto
+217,9,36,Apto
+218,9,37,Apto
+219,9,38,No Apto
+220,9,39,Apto
+221,9,40,Apto
+222,9,41,Apto
+223,9,42,Apto
+224,9,43,Apto
+225,9,44,Apto
+226,9,45,Apto
+227,9,46,Apto
+228,9,47,No Apto
+229,9,48,Apto
+230,9,49,Apto
+231,9,50,No Apto
+232,9,51,No Apto
+233,9,52,Apto
+234,10,26,No Apto
+235,10,27,Apto
+236,10,28,Apto
+237,10,29,Apto
+238,10,30,No Apto
+239,10,31,No Apto
+240,10,32,Apto
+241,10,33,Apto
+242,10,34,Apto
+243,10,35,Apto
+244,10,36,Apto
+245,10,37,Apto
+246,10,38,No Apto
+247,10,39,Apto
+248,10,40,Apto
+249,10,41,Apto
+250,10,42,Apto
+251,10,43,Apto
+252,10,44,No Apto
+253,10,45,Apto
+254,10,46,Apto
+255,10,47,No Apto
+256,10,48,Apto
+257,10,49,Apto
+258,10,50,No Apto
+259,10,51,Apto
+260,10,52,Apto

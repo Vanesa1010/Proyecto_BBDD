@@ -1,0 +1,11 @@
+id_proyecto,id_vertical,Proyecto
+1,1,Proyecto_HLF
+2,1,Proyecto_EDA
+3,1,Proyecto_BBDD
+4,1,Proyecto_ML
+5,1,Proyecto_Deployment
+6,2,Proyecto_WebDev
+7,2,Proyecto_FrontEnd
+8,2,Proyecto_Backend
+9,2,Proyecto_React
+10,2,Proyecto_FullStack
